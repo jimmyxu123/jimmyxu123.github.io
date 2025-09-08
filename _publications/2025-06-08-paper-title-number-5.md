@@ -9,4 +9,3 @@ paperurl: 'https://arxiv.org/abs/2410.05057'
 citation: 
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
