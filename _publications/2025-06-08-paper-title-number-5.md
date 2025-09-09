@@ -1,11 +1,8 @@
 ---
-title: "SELECT: A Large-Scale Benchmark of Data Curation Strategies for Image Classification"
+title: "Lipschitz-Guided Design of Interpolation Schedules in Generative Models"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+category: preprint
+permalink: https://arxiv.org/abs/2509.01629
 excerpt: 
-venue: 'Neurips 2024'
-paperurl: 'https://arxiv.org/abs/2410.05057'
-citation: 
+paperurl: 'https://arxiv.org/abs/2509.01629'
 ---
-
